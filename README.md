@@ -9,7 +9,7 @@
 
 **Modern Banking Technology Platform Built with Next.js & Tailwind CSS**
 
-[View Demo](https://your-demo-link.vercel.app) • [Report Bug](https://github.com/yourusername/ultimate-ui/issues) • [Request Feature](https://github.com/yourusername/ultimate-ui/issues)
+[View Demo](https://ultimate-ui-ryhs.vercel.app/) • • [Request Feature](https://github.com/Anthic/ultimate-ui)
 
 </div>
 
@@ -187,10 +187,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Your Name**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
 
 ## 🙏 Acknowledgments
 
